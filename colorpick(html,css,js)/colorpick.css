@@ -1,0 +1,70 @@
+h1{
+	text-align: center;
+	color:rgb(255, 222, 195);
+}
+
+.display-3{
+		font-weight:500;
+}
+
+.colorpick{
+	text-align:center;
+	font-size: 1.4rem;
+	font-weight: bold;
+	color:rgb(255, 222, 195);
+}
+
+.btn-outline-success{
+	margin-right: 50px;
+}
+
+.buttonall{
+	margin-top: 20px;
+	
+	padding:1px;
+}
+
+.colorblock{
+	width:30%;
+	padding-top: 25%;
+	float:left;
+	margin:1.5%;
+	background:rgb(211, 176, 204);
+    border-radius: 20%;
+	transition: background 0.4s;
+}
+
+.container{
+	width:30%;
+	margin: 10px auto;
+}
+
+.head{
+	letter-spacing: 40px;
+	font-family: 'Spicy Rice', cursive;
+}
+
+
+
+
+
+.colorshowall{
+	margin-top: 350px ;
+	width: 100%;
+	padding-bottom: 5%;
+	
+	text-align: center;
+	font-size: 1.1em;
+}
+
+.colorshow{
+	font-size: 1.1em;
+}
+
+.headbackground{
+	background-image:url("https://miro.medium.com/max/600/1*kHTB6Q_EK-Idb7UeNCuUoQ.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+    height: 210px;
+}
+
